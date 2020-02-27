@@ -1,2 +1,2 @@
-# NTP-2018-2019
-Napredne tehnike programiranja - Softverski inžinjering
+# NTP-2019-2020
+Napredne tehnike programiranja - Softversko inženjerstvo
